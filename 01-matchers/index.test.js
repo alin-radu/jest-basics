@@ -1,4 +1,4 @@
-const sum = require('./basics');
+const sum = require('.');
 
 // basic tests
 describe('basic tests', () => {
