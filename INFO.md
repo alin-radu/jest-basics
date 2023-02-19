@@ -10,8 +10,7 @@
 
 ### II. GITHUB
 
-- ...
-- ...
+- git@github.com:alin-radu/jest-basics.git
 
 ### III. APP
 
